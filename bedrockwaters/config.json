@@ -1,0 +1,517 @@
+{
+	"childBiomesInheritParentColors": true,
+	"autoConfigureVanillaBiomesOnly": true,
+	"biomes": [
+		{
+			"biomeId": "DEFAULT",
+			"biomeProperties": {
+				"waterColor": "#44AFF5",
+				"waterFogColor": "#44AFF5"
+			}
+		},
+		{
+			"biomeId": "minecraft:ocean",
+			"biomeProperties": {
+				"waterColor": "#1787D4",
+				"waterFogColor": "#1165b0"
+			}
+		},
+		{
+			"biomeId": "minecraft:plains",
+			"biomeProperties": {
+				"waterColor": "#44AFF5",
+				"waterFogColor": "#44AFF5"
+			}
+		},
+		{
+			"biomeId": "minecraft:desert",
+			"biomeProperties": {
+				"waterColor": "#32A598",
+				"waterFogColor": "#32A598"
+			}
+		},
+		{
+			"biomeId": "minecraft:mountains",
+			"biomeProperties": {
+				"waterColor": "#007BF7",
+				"waterFogColor": "#007BF7"
+			}
+		},
+		{
+			"biomeId": "minecraft:forest",
+			"biomeProperties": {
+				"waterColor": "#1E97F2",
+				"waterFogColor": "#1E97F2"
+			}
+		},
+		{
+			"biomeId": "minecraft:taiga",
+			"biomeProperties": {
+				"waterColor": "#287082",
+				"waterFogColor": "#287082"
+			}
+		},
+		{
+			"biomeId": "minecraft:swamp",
+			"biomeProperties": {
+				"waterColor": "#4c6559",
+				"waterFogColor": "#4c6559"
+			}
+		},
+		{
+			"biomeId": "minecraft:river",
+			"biomeProperties": {
+				"waterColor": "#0084FF",
+				"waterFogColor": "#0084FF"
+			}
+		},
+		{
+			"biomeId": "minecraft:nether_wastes",
+			"biomeProperties": {
+				"waterColor": "#905957",
+				"waterFogColor": "#905957"
+			}
+		},
+		{
+			"biomeId": "minecraft:the_end",
+			"biomeProperties": {
+				"waterColor": "#62529e",
+				"waterFogColor": "#62529e"
+			}
+		},
+		{
+			"biomeId": "minecraft:frozen_ocean",
+			"biomeProperties": {
+				"waterColor": "#2570B5",
+				"waterFogColor": "#174985"
+			}
+		},
+		{
+			"biomeId": "minecraft:frozen_river",
+			"biomeProperties": {
+				"waterColor": "#185390",
+				"waterFogColor": "#185390"
+			}
+		},
+		{
+			"biomeId": "minecraft:snowy_tundra",
+			"biomeProperties": {
+				"waterColor": "#14559b",
+				"waterFogColor": "#14559b"
+			}
+		},
+		{
+			"biomeId": "minecraft:snowy_mountains",
+			"biomeProperties": {
+				"waterColor": "#1156a7",
+				"waterFogColor": "#1156a7"
+			}
+		},
+		{
+			"biomeId": "minecraft:mushroom_fields",
+			"biomeProperties": {
+				"waterColor": "#8a8997",
+				"waterFogColor": "#8a8997"
+			}
+		},
+		{
+			"biomeId": "minecraft:mushroom_field_shore",
+			"biomeProperties": {
+				"waterColor": "#818193",
+				"waterFogColor": "#818193"
+			}
+		},
+		{
+			"biomeId": "minecraft:beach",
+			"biomeProperties": {
+				"waterColor": "#157cab",
+				"waterFogColor": "#157cab"
+			}
+		},
+		{
+			"biomeId": "minecraft:desert_hills",
+			"biomeProperties": {
+				"waterColor": "#1a7aa1",
+				"waterFogColor": "#1a7aa1"
+			}
+		},
+		{
+			"biomeId": "minecraft:wooded_hills",
+			"biomeProperties": {
+				"waterColor": "#056bd1",
+				"waterFogColor": "#056bd1"
+			}
+		},
+		{
+			"biomeId": "minecraft:taiga_hills",
+			"biomeProperties": {
+				"waterColor": "#236583",
+				"waterFogColor": "#236583"
+			}
+		},
+		{
+			"biomeId": "minecraft:mountain_edge",
+			"biomeProperties": {
+				"waterColor": "#045cd5",
+				"waterFogColor": "#045cd5"
+			}
+		},
+		{
+			"biomeId": "minecraft:jungle",
+			"biomeProperties": {
+				"waterColor": "#14A2C5",
+				"waterFogColor": "#14A2C5"
+			}
+		},
+		{
+			"biomeId": "minecraft:jungle_hills",
+			"biomeProperties": {
+				"waterColor": "#1B9ED8",
+				"waterFogColor": "#1B9ED8"
+			}
+		},
+		{
+			"biomeId": "minecraft:jungle_edge",
+			"biomeProperties": {
+				"waterColor": "#0D8AE3",
+				"waterFogColor": "#0D8AE3"
+			}
+		},
+		{
+			"biomeId": "minecraft:deep_ocean",
+			"biomeProperties": {
+				"waterColor": "#1787D4",
+				"waterFogColor": "#1463a5"
+			}
+		},
+		{
+			"biomeId": "minecraft:stone_shore",
+			"biomeProperties": {
+				"waterColor": "#0d67bb",
+				"waterFogColor": "#0d67bb"
+			}
+		},
+		{
+			"biomeId": "minecraft:snowy_beach",
+			"biomeProperties": {
+				"waterColor": "#1463a5",
+				"waterFogColor": "#1463a5"
+			}
+		},
+		{
+			"biomeId": "minecraft:birch_forest",
+			"biomeProperties": {
+				"waterColor": "#0677ce",
+				"waterFogColor": "#0677ce"
+			}
+		},
+		{
+			"biomeId": "minecraft:birch_forest_hills",
+			"biomeProperties": {
+				"waterColor": "#0a74c4",
+				"waterFogColor": "#0a74c4"
+			}
+		},
+		{
+			"biomeId": "minecraft:dark_forest",
+			"biomeProperties": {
+				"waterColor": "#3B6CD1",
+				"waterFogColor": "#3B6CD1"
+			}
+		},
+		{
+			"biomeId": "minecraft:snowy_taiga",
+			"biomeProperties": {
+				"waterColor": "#205e83",
+				"waterFogColor": "#205e83"
+			}
+		},
+		{
+			"biomeId": "minecraft:snowy_taiga_hills",
+			"biomeProperties": {
+				"waterColor": "#245b78",
+				"waterFogColor": "#245b78"
+			}
+		},
+		{
+			"biomeId": "minecraft:giant_tree_taiga",
+			"biomeProperties": {
+				"waterColor": "#2d6d77",
+				"waterFogColor": "#2d6d77"
+			}
+		},
+		{
+			"biomeId": "minecraft:giant_tree_taiga_hills",
+			"biomeProperties": {
+				"waterColor": "#2d6d77",
+				"waterFogColor": "#2d6d77"
+			}
+		},
+		{
+			"biomeId": "minecraft:wooded_mountains",
+			"biomeProperties": {
+				"waterColor": "#0E63AB",
+				"waterFogColor": "#0E63AB"
+			}
+		},
+		{
+			"biomeId": "minecraft:savanna",
+			"biomeProperties": {
+				"waterColor": "#2C8B9C",
+				"waterFogColor": "#2C8B9C"
+			}
+		},
+		{
+			"biomeId": "minecraft:savanna_plateau",
+			"biomeProperties": {
+				"waterColor": "#2590A8",
+				"waterFogColor": "#2590A8"
+			}
+		},
+		{
+			"biomeId": "minecraft:badlands",
+			"biomeProperties": {
+				"waterColor": "#4E7F81",
+				"waterFogColor": "#4E7F81"
+			}
+		},
+		{
+			"biomeId": "minecraft:wooded_badlands_plateau",
+			"biomeProperties": {
+				"waterColor": "#497F99",
+				"waterFogColor": "#497F99"
+			}
+		},
+		{
+			"biomeId": "minecraft:badlands_plateau",
+			"biomeProperties": {
+				"waterColor": "#55809E",
+				"waterFogColor": "#55809E"
+			}
+		},
+		{
+			"biomeId": "minecraft:small_end_islands",
+			"biomeProperties": {
+				"waterColor": "#62529e",
+				"waterFogColor": "#62529e"
+			}
+		},
+		{
+			"biomeId": "minecraft:end_midlands",
+			"biomeProperties": {
+				"waterColor": "#62529e",
+				"waterFogColor": "#62529e"
+			}
+		},
+		{
+			"biomeId": "minecraft:end_highlands",
+			"biomeProperties": {
+				"waterColor": "#62529e",
+				"waterFogColor": "#62529e"
+			}
+		},
+		{
+			"biomeId": "minecraft:end_barrens",
+			"biomeProperties": {
+				"waterColor": "#62529e",
+				"waterFogColor": "#62529e"
+			}
+		},
+		{
+			"biomeId": "minecraft:warm_ocean",
+			"biomeProperties": {
+				"waterColor": "#02B0E5",
+				"waterFogColor": "#0289d5"
+			}
+		},
+		{
+			"biomeId": "minecraft:lukewarm_ocean",
+			"biomeProperties": {
+				"waterColor": "#0D96DB",
+				"waterFogColor": "#0a74c4"
+			}
+		},
+		{
+			"biomeId": "minecraft:cold_ocean",
+			"biomeProperties": {
+				"waterColor": "#2080C9",
+				"waterFogColor": "#14559b"
+			}
+		},
+		{
+			"biomeId": "minecraft:deep_warm_ocean",
+			"biomeProperties": {
+				"waterColor": "#02B0E5",
+				"waterFogColor": "#0686ca"
+			}
+		},
+		{
+			"biomeId": "minecraft:deep_lukewarm_ocean",
+			"biomeProperties": {
+				"waterColor": "#0D96DB",
+				"waterFogColor": "#0e72b9"
+			}
+		},
+		{
+			"biomeId": "minecraft:deep_cold_ocean",
+			"biomeProperties": {
+				"waterColor": "#2080C9",
+				"waterFogColor": "#185390"
+			}
+		},
+		{
+			"biomeId": "minecraft:deep_frozen_ocean",
+			"biomeProperties": {
+				"waterColor": "#2570B5",
+				"waterFogColor": "#1a4879"
+			}
+		},
+		{
+			"biomeId": "minecraft:sunflower_plains",
+			"biomeProperties": {
+				"waterColor": "#44AFF5",
+				"waterFogColor": "#44AFF5"
+			}
+		},
+		{
+			"biomeId": "minecraft:gravelly_mountains",
+			"biomeProperties": {
+				"waterColor": "#0E63AB",
+				"waterFogColor": "#0E63AB"
+			}
+		},
+		{
+			"biomeId": "minecraft:flower_forest",
+			"biomeProperties": {
+				"waterColor": "#20A3CC",
+				"waterFogColor": "#20A3CC"
+			}
+		},
+		{
+			"biomeId": "minecraft:taiga_mountains",
+			"biomeProperties": {
+				"waterColor": "#1E6B82",
+				"waterFogColor": "#1E6B82"
+			}
+		},
+		{
+			"biomeId": "minecraft:swamp_hills",
+			"biomeProperties": {
+				"waterColor": "#4c6156",
+				"waterFogColor": "#4c6156"
+			}
+		},
+		{
+			"biomeId": "minecraft:ice_spikes",
+			"biomeProperties": {
+				"waterColor": "#14559b",
+				"waterFogColor": "#14559b"
+			}
+		},
+		{
+			"biomeId": "minecraft:modified_jungle",
+			"biomeProperties": {
+				"waterColor": "#1B9ED8",
+				"waterFogColor": "#1B9ED8"
+			}
+		},
+		{
+			"biomeId": "minecraft:modified_jungle_edge",
+			"biomeProperties": {
+				"waterColor": "#0D8AE3",
+				"waterFogColor": "#0D8AE3"
+			}
+		},
+		{
+			"biomeId": "minecraft:snowy_taiga_mountains",
+			"biomeProperties": {
+				"waterColor": "#205e83",
+				"waterFogColor": "#205e83"
+			}
+		},
+		{
+			"biomeId": "minecraft:giant_spruce_taiga",
+			"biomeProperties": {
+				"waterColor": "#2d6d77",
+				"waterFogColor": "#2d6d77"
+			}
+		},
+		{
+			"biomeId": "minecraft:giant_spruce_taiga_hills",
+			"biomeProperties": {
+				"waterColor": "#286378",
+				"waterFogColor": "#286378"
+			}
+		},
+		{
+			"biomeId": "minecraft:modified_gravelly_mountains",
+			"biomeProperties": {
+				"waterColor": "#0E63AB",
+				"waterFogColor": "#0E63AB"
+			}
+		},
+		{
+			"biomeId": "minecraft:shattered_savanna",
+			"biomeProperties": {
+				"waterColor": "#2590A8",
+				"waterFogColor": "#2590A8"
+			}
+		},
+		{
+			"biomeId": "minecraft:eroded_badlands",
+			"biomeProperties": {
+				"waterColor": "#497F99",
+				"waterFogColor": "#497F99"
+			}
+		},
+		{
+			"biomeId": "minecraft:modified_badlands_plateau",
+			"biomeProperties": {
+				"waterColor": "#55809E",
+				"waterFogColor": "#55809E"
+			}
+		},
+		{
+			"biomeId": "minecraft:bamboo_jungle",
+			"biomeProperties": {
+				"waterColor": "#14A2C5",
+				"waterFogColor": "#14A2C5"
+			}
+		},
+		{
+			"biomeId": "minecraft:bamboo_jungle_hills",
+			"biomeProperties": {
+				"waterColor": "#1B9ED8",
+				"waterFogColor": "#1B9ED8"
+			}
+		},
+		{
+			"biomeId": "minecraft:soul_sand_valley",
+			"biomeProperties": {
+				"waterColor": "#968989",
+				"waterFogColor": "#968989"
+			}
+		},
+		{
+			"biomeId": "minecraft:crimson_forest",
+			"biomeProperties": {
+				"waterColor": "#91211b",
+				"waterFogColor": "#91211b"
+			}
+		},
+		{
+			"biomeId": "minecraft:warped_forest",
+			"biomeProperties": {
+				"waterColor": "#512450",
+				"waterFogColor": "#512450"
+			}
+		},
+		{
+			"biomeId": "minecraft:basalt_deltas",
+			"biomeProperties": {
+				"waterColor": "#474656",
+				"waterFogColor": "#474656"
+			}
+		}
+	]
+}

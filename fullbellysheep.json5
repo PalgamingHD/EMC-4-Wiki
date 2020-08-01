@@ -1,0 +1,4 @@
+{ 
+	// Feeding sheep with grass(item) restores its wool
+	"restoreWool": true
+}

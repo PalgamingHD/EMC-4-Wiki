@@ -1,0 +1,5 @@
+{
+  "foodTimerLength": 5,
+  "restrictPlaceBlocks": true,
+  "restrictUseBlocks": true
+}

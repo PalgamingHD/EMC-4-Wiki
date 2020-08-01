@@ -1,0 +1,6 @@
+{
+  "allowCollisionPickup": true,
+  "allowClickPickup": true,
+  "collisionRequiresShift": false,
+  "clickRequiresShift": false
+}

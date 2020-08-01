@@ -1,0 +1,8 @@
+{
+	// The chance a given Dragon Egg will break when producing a Dracomelette
+	"breakChance": 0.3333333432674408,
+	// The chance to teleport when eating a Dracomelette
+	"teleportChance": 0.5,
+	// Should the Ender Dragon spawn eggs after the initial kill
+	"spawnMultipleEggs": false
+}

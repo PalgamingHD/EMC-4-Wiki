@@ -1,0 +1,14 @@
+{
+	// List of curios
+	"curios": {
+		"back": {
+			"hasCosmetic": false,
+			"visible": true,
+			"size": 1,
+			"icon": "curios:item/empty_back_slot",
+			"override": false,
+			"priority": 80,
+			"locked": false
+		}
+	}
+}
